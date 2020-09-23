@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1f24d0f-79fd-41ec-ae3d-7c9bf34fc2a0" name="Default Changelist" comment="上传主函数">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/main_jar/main.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/simhash/SimHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/simhash/formula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test/orig.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test/orig_0.8_add.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test/orig_0.8_del.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test/orig_0.8_dis_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test/orig_0.8_dis_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test/orig_0.8_dis_15.txt" afterDir="false" />
+    <list default="true" id="b1f24d0f-79fd-41ec-ae3d-7c9bf34fc2a0" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/target/classes/Exception.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/Unit.class" afterDir="false" />
@@ -71,7 +58,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
@@ -90,9 +77,13 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Unit.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -147,6 +138,24 @@
               <item name="check-passage" type="b2602c69:ProjectViewProjectNode" />
               <item name="check-passage" type="462c0819:PsiDirectoryNode" />
               <item name="release" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="check-passage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="check-passage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="check-passage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="check-passage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="check-passage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="check-passage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="check-passage" type="b2602c69:ProjectViewProjectNode" />
@@ -237,7 +246,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600863151716</updated>
       <workItem from="1600863153022" duration="405000" />
-      <workItem from="1600863587521" duration="1093000" />
+      <workItem from="1600863587521" duration="1347000" />
     </task>
     <task id="LOCAL-00001" summary="上传主函数">
       <created>1600863678478</created>
@@ -267,7 +276,49 @@
       <option name="project" value="LOCAL" />
       <updated>1600864898903</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="上传配置文件">
+      <created>1600865049147</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600865049147</updated>
+    </task>
+    <task id="LOCAL-00006" summary="分词函数和simhash函数">
+      <created>1600865101307</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600865101307</updated>
+    </task>
+    <task id="LOCAL-00007" summary="测试文件">
+      <created>1600865129452</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600865129452</updated>
+    </task>
+    <task id="LOCAL-00008" summary="maven配置">
+      <created>1600865170788</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600865170788</updated>
+    </task>
+    <task id="LOCAL-00009" summary="异常类和读入文本类">
+      <created>1600865238280</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600865238280</updated>
+    </task>
+    <task id="LOCAL-00010" summary="上传target">
+      <created>1600865275613</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600865275613</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -276,10 +327,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1498000" />
+    <option name="totallyTimeSpent" value="1752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -321,22 +373,21 @@
     <MESSAGE value="上传测试" />
     <MESSAGE value="余弦相似度函数" />
     <MESSAGE value="上传配置文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="上传配置文件" />
+    <MESSAGE value="分词函数和simhash函数" />
+    <MESSAGE value="测试文件" />
+    <MESSAGE value="maven配置" />
+    <MESSAGE value="异常类和读入文本类" />
+    <MESSAGE value="上传target" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传target" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/simhash/formula.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Exception.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DevTest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/UnitTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Unit.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cosinesimilarity/CosineSimilarity.java">
@@ -359,6 +410,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exception.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Unit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
