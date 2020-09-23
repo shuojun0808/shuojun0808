@@ -6,6 +6,8 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
+
+//利用String[] args进行命令行传参
 public class Main {
     public static void main(String[] args) throws IOException {
         double ans = Unit.ans(args[0], args[1]);
